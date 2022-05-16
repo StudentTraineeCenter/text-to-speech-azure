@@ -1,5 +1,5 @@
-# Text To Speech 
-Jednoduchá Text To Speech aplikace vytvořená s pomocí Azure a Reactu.
+# Text to Speech 
+Jednoduchá aplikace převádějící text na řeč vytvořena s pomocí Azure a Reactu. Aplikace je jednoduše expandovatelná na podporu více jazyků. Z aplikace si také můžete vzít pouze modul přímo na převod textu na řeč a následně tento modul využít jinde. 
 ## Příkazy
 > Nainstalujte dependencies
 ```
