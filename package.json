@@ -41,7 +41,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.4",
     "microsoft-cognitiveservices-speech-sdk": "^1.20.0",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.31",
     "react-scripts": "^5.0.0",
     "styled-components": "^5.3.5"
   }
